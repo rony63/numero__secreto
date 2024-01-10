@@ -12,5 +12,5 @@ Comandos
 
 # git pull: baixar as mudanças para o repositório local.
 
-# git clone: clona o projeto do github para sua máquina local.
+## git clone: clona o projeto do github para sua máquina local.
 
